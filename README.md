@@ -2,5 +2,5 @@
 ## Spring 2021 (Remote)
 ## Professor Izidor Gertner
 
-###Resources
+### Resources
 MARS MIPS Simulator
