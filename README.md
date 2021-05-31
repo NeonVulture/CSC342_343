@@ -18,5 +18,5 @@ Take home exams that extend on the class and quiz material. Requires report and 
 - Quartus Prime Lite & ModelSim Download
 - Visual Studio [Download](https://visualstudio.microsoft.com/free-developer-offers/)
 - VirtualBox [Download](https://www.virtualbox.org/wiki/Downloads)
-- Any Linux Platform (Recommend Ubuntu) [Download](https://ubuntu.com/download/desktop) 
-##### MARS MIPS Simulator [Download](http://courses.missouristate.edu/KenVollmar/MARS/download.htm) 
+- Any Linux Platform (Recommend Ubuntu) [Download](https://ubuntu.com/download/desktop)
+- MARS MIPS Simulator \[[Download]\](http://courses.missouristate.edu/KenVollmar/MARS/download.htm) 
