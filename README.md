@@ -2,8 +2,12 @@
 ## Spring 2021 (Remote)
 ## Professor: Izidor Gertner
 
-### Resources
-#### Visual Studio Installer
-#### VirtualBox Installation
-#### Ubuntu 20.4 ISO Download
-#### MARS MIPS Simulator Installation
+## Contents:
+
+### *Self Check Labs* 
+
+### *Required Software*
+##### Visual Studio Installer
+##### VirtualBox Installation
+##### Ubuntu 20.4 ISO Download
+##### MARS MIPS Simulator Installation
