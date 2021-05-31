@@ -33,7 +33,7 @@ Take home exams that extend on the class and quiz material. Requires report and 
 - THT 3: Optimization of Dot Product Using Vector Instructions
 
 ### *Required Software*
-- Quartus Prime Lite & ModelSim Download
+- Quartus Prime Lite & ModelSim Download \[[Instructions](https://github.com/NeonVulture/CSC342_343/blob/main/Resources/Tutorials/Tutorial_Quartus_Setup2021.pdf)\]
 - Visual Studio [Download](https://visualstudio.microsoft.com/free-developer-offers/)
 - VirtualBox [Download](https://www.virtualbox.org/wiki/Downloads)
 - Any Linux Platform (Recommend Ubuntu) [Download](https://ubuntu.com/download/desktop)
