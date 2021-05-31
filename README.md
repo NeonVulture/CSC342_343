@@ -5,9 +5,17 @@
 ## Contents:
 
 ### *Self Check Labs* 
+#
+### *Labs*
+
+### *Quizzes*
+
+### *Take Home Tests*
 
 ### *Required Software*
-#####  - Visual Studio Installer
-#####  - VirtualBox Installation
-#####  - Ubuntu 20.4 ISO Download
-#####  - MARS MIPS Simulator Installation
+##### Quartus Prime Lite Download
+##### ModelSim Download
+##### Visual Studio Download
+##### VirtualBox Download
+##### Any Linux Platform (Recommend Ubuntu) [Download](https://ubuntu.com/download/desktop) 
+##### MARS MIPS Simulator [Download](http://courses.missouristate.edu/KenVollmar/MARS/download.htm) 
