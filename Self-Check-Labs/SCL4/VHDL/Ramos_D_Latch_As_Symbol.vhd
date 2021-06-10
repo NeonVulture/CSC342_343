@@ -49,5 +49,4 @@ ELSIF (Ramos_ENA = '1') THEN
 END IF;
 END PROCESS;
 
-
 END bdf_type;
