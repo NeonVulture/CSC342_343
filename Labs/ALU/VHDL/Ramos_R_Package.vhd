@@ -1,7 +1,7 @@
 Library IEEE;
 Use IEEE.STD_LOGIC_1164.ALL;
--- This package contains component declarations for operations: ADD, ADDU, SUB, SUBU, AND, NOR, OR
--- This package also includes the component declaration for the 32-Bit Register & operation decoder
+-- This package contains component declarations for the necessary bitwise operations:
+-- This package also includes the component declaration for the 32-Bit Register & R-Type instructions decoder
 package Ramos_R_Package is
 
     component Ramos_32Bit_Register
