@@ -11,7 +11,12 @@ The Single Cycle (MIPS Processor) CPU designed will be able to implement the fol
 ![MIPS Instructions List](https://github.com/NeonVulture/CSC342_343/blob/main/Labs/Single-Cycle-CPU/Images/CPU_Instructions_Breakdown.PNG)
 Each instruction type will be identified either by their function (*Funct*) field or *Opcode* value. For example, R-Type instructions are identified by their *Funct* field value.
 ![Summary of R-Type Function Fields](https://github.com/NeonVulture/CSC342_343/blob/main/Labs/Single-Cycle-CPU/Images/R-Type_Function_Field_Summary.PNG)
+
 Meanwhile, I & J Type instructions are identified by their Opcode field value
 ![Summary of I&J Type Opcode Fields](https://github.com/NeonVulture/CSC342_343/blob/main/Labs/Single-Cycle-CPU/Images/I&J_Type_Opcode_Field_Summary.PNG)
+
 ## Control Unit
 ![Control Unit](https://github.com/NeonVulture/CSC342_343/blob/main/Labs/Single-Cycle-CPU/Images/Control_Unit.PNG)
+![ALU Control Signals Summary](https://github.com/NeonVulture/CSC342_343/blob/main/Labs/Single-Cycle-CPU/Images/Summary_of_ALU_Control_Signals.PNG)
+![Meaning of Control Signals](https://github.com/NeonVulture/CSC342_343/blob/main/Labs/Single-Cycle-CPU/Images/Meaning_of_control_signals.PNG)
+![Datapaths for Control Signals](https://github.com/NeonVulture/CSC342_343/blob/main/Labs/Single-Cycle-CPU/Images/Control_Signal_Datapaths.PNG)
